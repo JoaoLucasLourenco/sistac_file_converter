@@ -9,7 +9,7 @@ O conversor reestrutura os arquivos no novo formato exigido, removendo informaç
 ---
 
 ## 🏛 Desenvolvido por
-Diretoria de Processos Seletivos - Universidade Federal de Alfenas (UNIFAL-MG)
+João Lucas Lourenço - Universidade Federal de Alfenas (UNIFAL-MG)
 
 ---
 
